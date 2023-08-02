@@ -1,0 +1,1942 @@
+nfts:
+- tokenId: ff8defa0a39a025d201431806e67df899900e289b5e2529b734d380f45f9c344
+  name: 'ErgoSapien Alpha #1'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #1",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "6563cbe22169e568a5094af7686b6bf1fa2b7416",
+        "edition": 1,
+        "attributes": [
+            " background night",
+            " body pink",
+            " shirt green",
+            " eyes happy",
+            " mouth frown",
+            " ear earring",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiftkzzo4a63glv2uomkrzwj2f7ttu6cvhpicgjtxtdhptuu42hyzy
+- tokenId: 51c982e7f18109a870e73df2208e202d8393047512067d4626f90664ed1d1884
+  name: 'ErgoSapien Alpha #2'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #2",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "d19b30dd795f43627b7e1d8481cfbec733b55565",
+        "edition": 2,
+        "attributes": [
+            " background night",
+            " body furry white",
+            " shirt red",
+            " eyes happy",
+            " mouth normal",
+            " ear tiny",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifmhbctc3d37ojej2k3e5w5dkte47gpl7qqqzjol23fzl7rfamqoy
+- tokenId: 792c02e00046adc7105aa103a19b7ddd53ce5c9fefcdf0f4354996d8d995c844
+  name: 'ErgoSapien Alpha #3'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #3",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "5ce74ed9b11c376f36c7a135ec01d24a548144eb",
+        "edition": 3,
+        "attributes": [
+            " background alpha space",
+            " body yellow",
+            " shirt white",
+            " eyes crybaby",
+            " mouth wheat",
+            " ear tiny",
+            " mask oedipus"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibawrijtuunjovae5ybmtfhwiyojaust247tnwhsw3myzublwdgky
+- tokenId: c87030a4701fafe32bf2a4d7ecb42c31a91a26b415fac70b0244186ce5a422b6
+  name: 'ErgoSapien Alpha #4'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #4",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "99eef0d0f29ac01392832376caf75ad99681bd97",
+        "edition": 4,
+        "attributes": [
+            " background island",
+            " body blue",
+            " shirt white",
+            " eyes farapart",
+            " mouth wheat",
+            " ear earring",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihympta56msih5hphcndjodraqj2trftdb4yutsjkqfabffyk5zny
+- tokenId: c4665b098e4115064006dc9536bac849a0c76a95706f54972e422d7f1fc44de8
+  name: 'ErgoSapien Alpha #5'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #5",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "873e837eddf5e2167488994078ebfd4628d9c809",
+        "edition": 5,
+        "attributes": [
+            " background cityscape",
+            " body magenta",
+            " shirt green",
+            " eyes farapart",
+            " mouth silver tooth",
+            " ear horse",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicsprlfa4yfokl5h5zihvwhxjeiap5d5eswo243dprc3hijjv5fra
+- tokenId: efd9af36cc18f87a3fbbe74ae9a47dc6eff2960dcdc733277433b595d3bb7f07
+  name: 'ErgoSapien Alpha #6'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #6",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "681c9f34d9d0cd12f2361532299630e5f2961f87",
+        "edition": 6,
+        "attributes": [
+            " background cityscape",
+            " body orange",
+            " shirt red",
+            " eyes crybaby",
+            " mouth golden tooth",
+            " ear detached",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicj6jsk5omaqiz4j5jovyitykwpytp5jmri7j3knoa2m7x7tzvacy
+- tokenId: 67c695518f90d54ab80be3932664a26f0a005e541f46693dff0ee103fdbcb4c5
+  name: 'ErgoSapien Alpha #7'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #7",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "2ea246940f4d57fcf5280774130141931c623230",
+        "edition": 7,
+        "attributes": [
+            " background apocalypse",
+            " body orange",
+            " shirt black",
+            " eyes farapart",
+            " mouth golden tooth",
+            " ear horse",
+            " mask oedipus"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihq24uowlj62h7cqd5de7fo7wqrsoa6ug6tb4yivrb6e52oy64f34
+- tokenId: 4f04733abbd17b3361d3aaa12a73d45efc4c0ab5dcd0d2475554420e433f4811
+  name: 'ErgoSapien Alpha #8'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #8",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "4e4231e538ffd5d96f5e66e547cf919c3ebbfc20",
+        "edition": 8,
+        "attributes": [
+            " background island",
+            " body orange",
+            " shirt black",
+            " eyes farapart",
+            " mouth frown",
+            " ear tiny",
+            " mask omega"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidxxzbvwvfp6xrrndhi5za72zr5jcqgc2tm2dtut65jmtvupmulji
+- tokenId: d6f5ed54ef7eea45e9db98b74af3cd1f80323d09d36aa02df99e028280626825
+  name: 'ErgoSapien Alpha #9'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #9",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "6bf44cd67ea49594cc224bead215678ad4c72aa1",
+        "edition": 9,
+        "attributes": [
+            " background alpha space",
+            " body furry white",
+            " shirt black",
+            " eyes crybaby",
+            " mouth frown",
+            " ear hole",
+            " mask oedipus"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidqehsauftzdixrbqgxw54qqd4bk7ozh2dmy5hqltm2diizefr2uu
+- tokenId: 22af9616b0e0226af9f0093854df7f64a7eb66d57026e2833b6adee67b53d86c
+  name: 'ErgoSapien Alpha #10'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #10",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "e925cb0a56fec2e0ff13133499a31a12bc69bb5c",
+        "edition": 10,
+        "attributes": [
+            " background cityscape",
+            " body furry blue",
+            " shirt black",
+            " eyes farapart",
+            " mouth frown",
+            " ear detached",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigmlobhq4c4bsqiaa5gt7e7mpyzy2y4jdvhaul7ugacwkom33q3ge
+- tokenId: fcb9fc92ff06843544a2edefdafb1e7e44ced3da73b8a4d8df85e8068a40e9f7
+  name: 'ErgoSapien Alpha #11'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #11",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "206cd14d510b4eb5145cda2b1f9c5a364fbbbbd8",
+        "edition": 11,
+        "attributes": [
+            " background apocalypse",
+            " body purple",
+            " shirt red",
+            " eyes black eye",
+            " mouth wheat",
+            " ear attached",
+            " mask oedipus"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiav7s735s27tcpuisbxgrjjbrbxy2cdhu23u5n6fh3skn7xchkao4
+- tokenId: a75ccbe77830f3279a52484cd3975dd036eb8f0ad17ddb709ea6557351e9114c
+  name: 'ErgoSapien Alpha #12'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #12",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "e06ec108478540b5b1a0613b4018193322bea310",
+        "edition": 12,
+        "attributes": [
+            " background alpha space",
+            " body furry white",
+            " shirt green",
+            " eyes happy",
+            " mouth silver tooth",
+            " ear horse",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiatn623hzwrdlchitl26ok5n4kxet3liduqkch4ovogzzskx57y6u
+- tokenId: 215cfc564ced79e1d4f400efeb97dc63c7c7bb3487a3a15b6eb80987d02ddf1b
+  name: 'ErgoSapien Alpha #13'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #13",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "c046566c3be69ccadfce285e046e2b5bfdb9aff1",
+        "edition": 13,
+        "attributes": [
+            " background crash",
+            " body pink",
+            " shirt white",
+            " eyes normal",
+            " mouth frown",
+            " ear horse",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeic3nd2brhqlrpirb3abswyticgxywfunmlqbiphwh44siculm5oae
+- tokenId: dbfa0f5613d26aee48d3cf18b328be97a6746d48d96cbc29ec638a1817d4f32b
+  name: 'ErgoSapien Alpha #14'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #14",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "0c5a660e2905d0cae06c2a76df88fe459a09ec77",
+        "edition": 14,
+        "attributes": [
+            " background alpha space",
+            " body magenta",
+            " shirt black",
+            " eyes crybaby",
+            " mouth golden  grill",
+            " ear horse",
+            " mask omega"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeid2hbcxrv2g7bmi4tyktjbet52txmuvhbiyek5uit56hnog5mowbu
+- tokenId: bd38346a1e8382d905ea294a1e7a3df140ed3cad69412ad36a64ebc1b906819e
+  name: 'ErgoSapien Alpha #15'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #15",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "4a3a8f38f8c97b0e43dbd506ee24b1d72cd4823a",
+        "edition": 15,
+        "attributes": [
+            " background cityscape",
+            " body blue",
+            " shirt green",
+            " eyes happy",
+            " mouth frown",
+            " ear hole",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigv3kbgauyp76d26q4z2rsezvcyiedqipbp4kvcvjlqpxu3dalxte
+- tokenId: 89f78974ec5c51a86749ac7e7b79af51e590e6c3c8ba3bb122bb89d1022326cd
+  name: 'ErgoSapien Alpha #16'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #16",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "789b504c57a60f87240e4c194c8cd2487066f653",
+        "edition": 16,
+        "attributes": [
+            " background night",
+            " body blue",
+            " shirt white",
+            " eyes happy",
+            " mouth silver tooth",
+            " ear attached",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeih6ojjbtduhcazed6fsc6dqdl3e2ocitq7fsky672pow3sqlzqcte
+- tokenId: 7fc67a8936be3129cfe42181e62ea3c90c4f2d12b9d2e42dacfc42c7f40bbfb3
+  name: 'ErgoSapien Alpha #17'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #17",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "98abe98708c036509e4739c6828506141cb28aac",
+        "edition": 17,
+        "attributes": [
+            " background cityscape",
+            " body orange",
+            " shirt white",
+            " eyes crybaby",
+            " mouth golden  grill",
+            " ear hole",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifyihrugzp4h2ncojzbpaafy5aa5kirru3fog4lompixbsvtyuu2e
+- tokenId: bc1b1ebbdd4b5f4b292407d4773a0b5f3d7c5912dd41e0ce15865d28172a6fec
+  name: 'ErgoSapien Alpha #18'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #18",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "3a23d00ba443a5de9c8f6fe2854593b7e800b9fd",
+        "edition": 18,
+        "attributes": [
+            " background night",
+            " body furry white",
+            " shirt green",
+            " eyes black eye",
+            " mouth golden tooth",
+            " ear earring",
+            " mask omega"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifavaipjftjeavrujwlgxbybah5kgldzzkt6w7yswar5ljhavmmvi
+- tokenId: 4b3f87e00ea1585a71dd9bb5a4512354d00206b83cdcbefcc0cbd02d7ff0a0bd
+  name: 'ErgoSapien Alpha #19'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #19",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "372d9d0c34d5e86180030638b660281730f1dcc1",
+        "edition": 19,
+        "attributes": [
+            " background night",
+            " body magenta",
+            " shirt green",
+            " eyes black eye",
+            " mouth golden  grill",
+            " ear earring",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeic25cnh2fip7cmsesjj4hw4koyipl6s7ke5ashnmyn2luuw7epi3u
+- tokenId: 39bf21efbda8f4c8fbcce277b8f68097af5bfc2823f29d660f7723fc6fd3c728
+  name: 'ErgoSapien Alpha #20'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #20",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "09ea488ed383a391687fb324c929f70a277aa5a6",
+        "edition": 20,
+        "attributes": [
+            " background alpha space",
+            " body purple",
+            " shirt green",
+            " eyes happy",
+            " mouth frown",
+            " ear horse",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeify4txniy3e6u6alc6bufhrespnvl4d5i4k7liiswaacqyjbiplme
+- tokenId: e10222f3cf22f81a07487df9d8306d2ffc6f51a62ead2c8ea66cc1e930aa95bf
+  name: 'ErgoSapien Alpha #21'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #21",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "4291778a93710e494479d1fa23437503ed3be662",
+        "edition": 21,
+        "attributes": [
+            " background apocalypse",
+            " body furry pink",
+            " shirt green",
+            " eyes farapart",
+            " mouth normal",
+            " ear tiny",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeih66cxb6cu6vjbrcwmpnipviudgs7bkqm4kxluyhpbym7fgoknwja
+- tokenId: 3b819ecfbc80955b699c2dba4d7d24ad5d51cc5b4179c873bd32f1440174b8b1
+  name: 'ErgoSapien Alpha #22'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #22",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "b1bc88d67c356539cc04f955e4b5be8c3f812eff",
+        "edition": 22,
+        "attributes": [
+            " background apocalypse",
+            " body orange",
+            " shirt red",
+            " eyes normal",
+            " mouth frown",
+            " ear earring",
+            " mask oedipus"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihvuzg25ky2w6jo2iiwlxbqbb6wuku5n64cc3licqptb7xpuirbk4
+- tokenId: f0830f5be66a95f635840ef4959e4a43956e4d861ad6ea1c7124c15c50134cd1
+  name: 'ErgoSapien Alpha #23'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #23",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "06bf057f4b56d8b409fd34e4f106eb967374f559",
+        "edition": 23,
+        "attributes": [
+            " background island",
+            " body furry pink",
+            " shirt white",
+            " eyes happy",
+            " mouth silver tooth",
+            " ear attached",
+            " mask oedipus"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidz5vclnghg3nt3s6oc3r2ggm7ax74m6lvzuzqk4ds2o2g4nuhrzm
+- tokenId: d54e3386f0e5580d5863e0fabfd38beff9ded49476e1e2dffae4522fbb4d50df
+  name: 'ErgoSapien Alpha #24'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #24",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "6a14886571dda2560b215b405e93ae2bc0375fb4",
+        "edition": 24,
+        "attributes": [
+            " background apocalypse",
+            " body furry blue",
+            " shirt white",
+            " eyes happy",
+            " mouth frown",
+            " ear horse",
+            " mask oedipus"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigetznuuoxgiipukvej4yygn7dsbx47v2vjsedctqh7yfed4v6cn4
+- tokenId: 5804efbfd459e16826fb1a0b866ce977bde98ea5a6079c850b6279b1dc4d5b5b
+  name: 'ErgoSapien Alpha #25'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #25",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "05bdab26107c23646a91fe2d3bb6cd2ea0bfedb6",
+        "edition": 25,
+        "attributes": [
+            " background alpha space",
+            " body yellow",
+            " shirt white",
+            " eyes happy",
+            " mouth silver grill",
+            " ear horse",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreicsctpjyltwz6hyzbpivz2vxaklqehi4q7fr7bfcfvjbdrcs7ejze
+- tokenId: 6ca26e70eb26ccd5ea7d9fba15eeae494b04c6f3680647dd13fe3606c1d0cf43
+  name: 'ErgoSapien Alpha #26'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #26",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "478a24a97dc720939e8dfe119ee19fc553289b8e",
+        "edition": 26,
+        "attributes": [
+            " background alpha space",
+            " body green",
+            " shirt white",
+            " eyes farapart",
+            " mouth wheat",
+            " ear hole",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihqb2my4i7riiuhhznklauocjb5wa72xgs4rcq43m5enreuctvt74
+- tokenId: 4853c6131b8c5229298888857696dd7a00d10717bbfd9dfe8aabe5f820ec0d66
+  name: 'ErgoSapien Alpha #27'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #27",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "e960e97a7e03d2532f6da0bd01e60938450ee9fc",
+        "edition": 27,
+        "attributes": [
+            " background night",
+            " body furry white",
+            " shirt white",
+            " eyes happy",
+            " mouth golden tooth",
+            " ear detached",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeig2geq7jh37kghfn35fuavhxqlt3oostlqqu4nngvhoymow7ttvia
+- tokenId: 72dd7de0e50a13105db06f9998f947318a8542e9b6373cf7f032e5b227e22388
+  name: 'ErgoSapien Alpha #28'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #28",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "668ccafe2251513630e40d1f717c2c2622f302dc",
+        "edition": 28,
+        "attributes": [
+            " background night",
+            " body purple",
+            " shirt black",
+            " eyes black eye",
+            " mouth normal",
+            " ear detached",
+            " mask omega"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidzlp52tg4lbozp2g3eyhpysrnqitdih2nepnzksjdmy4qqyppy6i
+- tokenId: 30818397168217308c513e65bcb94c5c9225902464191ccd351cf7ae0213519a
+  name: 'ErgoSapien Alpha #29'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #29",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "b8492cc512b10db2ed088658f6653955674b0578",
+        "edition": 29,
+        "attributes": [
+            " background night",
+            " body blue",
+            " shirt green",
+            " eyes black eye",
+            " mouth wheat",
+            " ear hole",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibv3g2rarzgysiwmlhufnipw5j6v4rlzjcndceuvigrzsdcdbhf3u
+- tokenId: 71af63b3bc01d03817fe3d104071a03bca42955acfb678a0bb3a0a44bce78b26
+  name: 'ErgoSapien Alpha #30'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #30",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "8e7c31301cc46c8535d93cef6249d3d7250edb6d",
+        "edition": 30,
+        "attributes": [
+            " background cityscape",
+            " body green",
+            " shirt red",
+            " eyes black eye",
+            " mouth drool",
+            " ear detached",
+            " mask oedipus"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibxra6u2ixqmfy3xondwxa2wpbvdibbrjcjcti7doizu2mk6a62mu
+- tokenId: 21b901d8c0611e54eb77f80f69a368ce525dee64be74c37b67eca20abe9fef72
+  name: 'ErgoSapien Alpha #31'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #31",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "63e7f174b06abadb5cd67b5fd55da7dd6aaf42f4",
+        "edition": 31,
+        "attributes": [
+            " background cityscape",
+            " body blue",
+            " shirt white",
+            " eyes crybaby",
+            " mouth silver tooth",
+            " ear attached",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigpaqpmzttkhlglmh5ozlp52ib5gmlbjilg3ghumq6bdxsyxgdcpe
+- tokenId: d64a085617d549d53af5aeac7057e6c8727f03d5a99af46dfbac343790a96674
+  name: 'ErgoSapien Alpha #32'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #32",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "c381f8fb87aa9914e58f3312da737ddc3911ee8f",
+        "edition": 32,
+        "attributes": [
+            " background night",
+            " body green",
+            " shirt red",
+            " eyes black eye",
+            " mouth frown",
+            " ear horse",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigj5xbtgztclsntut3ppamv2rn3dp53npbrpkj3yfwdijs56rgbry
+- tokenId: 9b234a229351b6cad52fe906c35819964e53373d842d3453a1ddb3871d8f848c
+  name: 'ErgoSapien Alpha #33'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #33",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "d3a08e57777e15f3c1664e31765f0dbf05d1c84f",
+        "edition": 33,
+        "attributes": [
+            " background crash",
+            " body pink",
+            " shirt green",
+            " eyes farapart",
+            " mouth golden tooth",
+            " ear horse",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeif4mb5s4c5w2glw747hjxo26nteeyfzlwunnk3ia6t5gpsmdvmz6i
+- tokenId: 0a5d7d31109c51a7b18fa44b7e5c0b9baff57b3576ec6615d8e52442bcc4f745
+  name: 'ErgoSapien Alpha #34'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #34",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "0ec81e7f0d93afd6e8610993ec4dd1884fc92523",
+        "edition": 34,
+        "attributes": [
+            " background night",
+            " body magenta",
+            " shirt red",
+            " eyes normal",
+            " mouth golden tooth",
+            " ear horse",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeib4gbewb3tybkmdhsu7q6azio4u2izlydhckglxo2ggcr2snecfry
+- tokenId: b0b49801269a9b57bbb288e1d4fabb49a06d184dc741f093b4dadce9d599e921
+  name: 'ErgoSapien Alpha #35'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #35",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "1c5ed7642cf6b0fad4ca91f8b21bcb9004df611c",
+        "edition": 35,
+        "attributes": [
+            " background crash",
+            " body blue",
+            " shirt black",
+            " eyes crybaby",
+            " mouth wheat",
+            " ear tiny",
+            " mask omega"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihby2qekir5u3tuqrct3vd2cezfffg2fulgf3cv4y5rekzu3x5chu
+- tokenId: d85d52b9aaa42832ae25cdbb5920c2810cc8a0efe32ecd20e08a7370bf24ab6e
+  name: 'ErgoSapien Alpha #36'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #36",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "0895e1437dbc8c52ff7bfa3f06f4949a149048b0",
+        "edition": 36,
+        "attributes": [
+            " background night",
+            " body yellow",
+            " shirt black",
+            " eyes normal",
+            " mouth frown",
+            " ear horse",
+            " mask omega"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihvpygx5puhfsu3luvnviwyl2t3ydybbgtbfqdkjwcn4ntabajlne
+- tokenId: a0e48a06d853c3ac133904f847318130640a9b8b5ac58862d2bd4064a340cdce
+  name: 'ErgoSapien Alpha #37'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #37",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "4c6c50255c7dfbf20ac8554a9f6e54b036d923a6",
+        "edition": 37,
+        "attributes": [
+            " background cityscape",
+            " body magenta",
+            " shirt green",
+            " eyes normal",
+            " mouth golden  grill",
+            " ear horse",
+            " mask oedipus"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeie5b5cu4ujqman45dug54xwbjjbe6xautotiutzgldh2qf36bu6mm
+- tokenId: bc9b72887fc9cf1f2650ae444f5e5f19c207b388cd7d6448d2d3983c9c36a071
+  name: 'ErgoSapien Alpha #38'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #38",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "3dc0a2687ff34c7c53aad8b36201a96dcbcc02b6",
+        "edition": 38,
+        "attributes": [
+            " background alpha space",
+            " body furry blue",
+            " shirt black",
+            " eyes black eye",
+            " mouth frown",
+            " ear tiny",
+            " mask oedipus"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigtkhskihbir54yfgn5nyfyt5jeomshkgyibsjwwfgjkeokt7geju
+- tokenId: d5b6d7ac16c8d8a17bf3ede9b6ad0d367ef7cd34fbe04a22935d7753cfe8e084
+  name: 'ErgoSapien Alpha #39'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #39",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "8bc7e4d3e138ecdaf4dc43f3dbe34ef4b95b028c",
+        "edition": 39,
+        "attributes": [
+            " background island",
+            " body pink",
+            " shirt white",
+            " eyes normal",
+            " mouth drool",
+            " ear detached",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifposjzyaxndlfwoemhu5f26xx6ceu5gtsg3lsxlm2plpt26wn4v4
+- tokenId: 82cfe138b83c23d6b573c482a26f80c779bce9d829467531aeef98cb63dde4d6
+  name: 'ErgoSapien Alpha #40'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #40",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "27ddde9e6658b0f5c688ae7d2e943a10f740db75",
+        "edition": 40,
+        "attributes": [
+            " background alpha space",
+            " body magenta",
+            " shirt green",
+            " eyes black eye",
+            " mouth silver grill",
+            " ear attached",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiggvimydbtyuccmtzxivleme34zu25ctuarz2yloyl3eqousb373e
+- tokenId: d2e944e5208226dfba5cd7b5143cba2c0435cb6c44a0ef2ec4148c3f73d4d5cf
+  name: 'ErgoSapien Alpha #41'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #41",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "6fd210c7e9b8711496b7ec296906296cca83ede5",
+        "edition": 41,
+        "attributes": [
+            " background crash",
+            " body purple",
+            " shirt black",
+            " eyes crybaby",
+            " mouth silver tooth",
+            " ear earring",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibvqbnjswsmtxbcwtfhsce2b6gdgrpo5hnmm2h352zssx45xjmipa
+- tokenId: f6f1de9310dd05118938b2a3ed7d89b4a061b2a718964f3023da8e5baab21ea1
+  name: 'ErgoSapien Alpha #42'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #42",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "ad62914fd87da806c9e1fc02c6eb34240cf7472a",
+        "edition": 42,
+        "attributes": [
+            " background apocalypse",
+            " body orange",
+            " shirt green",
+            " eyes happy",
+            " mouth normal",
+            " ear horse",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigksmwtk5cai7udfvvkahhxnuqv5ky3un7g2ejyg35ddieqmjbd3u
+- tokenId: 2b12ee8e8062cfd88951d1e1704f71bf9a0112b921bcd9c101e0724f0c5a716c
+  name: 'ErgoSapien Alpha #43'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #43",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "b44a96eb474d28bda6d5424ae4ee5c547acba600",
+        "edition": 43,
+        "attributes": [
+            " background island",
+            " body yellow",
+            " shirt red",
+            " eyes farapart",
+            " mouth normal",
+            " ear tiny",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibngrzgbhb2u5isfhbkxgeqbxegchrpcbdjfsfrlrbczwzndatesa
+- tokenId: cb0b4682f2bb11535be2001e4085c8c392911c143ef72c461e93dbcd4391ced3
+  name: 'ErgoSapien Alpha #44'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #44",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "2f096d56796cb42f21da886eb9554f6ac59c9af4",
+        "edition": 44,
+        "attributes": [
+            " background crash",
+            " body pink",
+            " shirt black",
+            " eyes happy",
+            " mouth normal",
+            " ear tiny",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicsk2yrgl4dwfu3kh4ohkgbrjmhovwhdhus7vctn5ggfr7cdmgbxq
+- tokenId: 1f2dd8d07b0033ffeda966f1dd26c1e854bf19642eb185381582ce5f05067b62
+  name: 'ErgoSapien Alpha #45'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #45",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "34b4f4605a7be5f09d90ad66ed862c65b4e3bc79",
+        "edition": 45,
+        "attributes": [
+            " background crash",
+            " body furry white",
+            " shirt white",
+            " eyes farapart",
+            " mouth wheat",
+            " ear tiny",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibm2xdxuwqacy5yvfr6dlmgnydfi3deexaaqhmtghbcaurfupye3a
+- tokenId: 83ccc244c28adddd4cf7bcdc32168ffb80fd1dceac115619d28ef3f4c431e7fd
+  name: 'ErgoSapien Alpha #46'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #46",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "9b107e2bafb78c9f6d04000d6e2958e7e348b604",
+        "edition": 46,
+        "attributes": [
+            " background alpha space",
+            " body blue",
+            " shirt black",
+            " eyes crybaby",
+            " mouth golden  grill",
+            " ear horse",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreiaul2iubsmairbpsgbhytedgih7wlmlwz67qj74q74c2rjdzfbyqm
+- tokenId: 8d1814234f9b366581a6cf3e54911b66a9099770410abd953eb10e76a4b4c889
+  name: 'ErgoSapien Alpha #47'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #47",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "f3dc561a6782b7540caa86bd6440bb7e2bb689bd",
+        "edition": 47,
+        "attributes": [
+            " background island",
+            " body furry blue",
+            " shirt red",
+            " eyes crybaby",
+            " mouth frown",
+            " ear detached",
+            " mask omega"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicbxbtcnuorvjni4b2d6p4jcbwtqvwda4pjsfpyk5a2zwryacblhe
+- tokenId: d48e6be4488baf727d38f59742ed178fb3939fe2ac3f57a547d07d8c12111bf7
+  name: 'ErgoSapien Alpha #48'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #48",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "04d356eda64aea71cdf83e6d2c061479636fb53f",
+        "edition": 48,
+        "attributes": [
+            " background alpha space",
+            " body green",
+            " shirt green",
+            " eyes normal",
+            " mouth silver grill",
+            " ear tiny",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicivgutnibqhzwre4nc5tcmjkvd3h3qyz4bpidhllaudeaan2zkyy
+- tokenId: 247c585d963ff9369a07cd6ad043b77a0cbde48efa0b227d75be2f5195076549
+  name: 'ErgoSapien Alpha #49'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #49",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "f50393dd67c29fa977562d729ec643dbd4a8368a",
+        "edition": 49,
+        "attributes": [
+            " background island",
+            " body blue",
+            " shirt white",
+            " eyes happy",
+            " mouth silver tooth",
+            " ear hole",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiemyukf4xaay4ogvplaxtot65gkwdirmkptu2o7zvkr2o4dpsovgy
+- tokenId: 2fd0c771f9d907dc9eedf4b620b886bc87766cc31828b7b3f086b566f49c45b0
+  name: 'ErgoSapien Alpha #50'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #50",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "faa31f08484c22cfdc9857e22604245794b1cc71",
+        "edition": 50,
+        "attributes": [
+            " background alpha space",
+            " body orange",
+            " shirt white",
+            " eyes normal",
+            " mouth silver tooth",
+            " ear tiny",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafkreibic4qdii445f7bayhu5nersjgugzzbh5gbijls5wzgg247s2oama
+- tokenId: 7f0f78749ff22fe331cab9bc22f89bc40ac601639c9d2ff919dc20c20fed848e
+  name: 'ErgoSapien Alpha #52'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #52",
+        "description": "ErgoSapiens Supporter Edition",
+        "dna": "a5f4dfc18d777d563f1c7e2e441c37dcdc8ff65c",
+        "edition": 52,
+        "attributes": [
+            " background night",
+            " body green",
+            " shirt white",
+            " eyes happy",
+            " mouth wheat",
+            " ear detached",
+            " mask omega"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifxmzwwdqhddj3m65jk35y7wt522sno43kufs2en76flc7w5dh2am
+- tokenId: 0701cdf7cf0bfd54450364ad9acf75554378184804f8567e8efd4783b084176a
+  name: 'ErgoSapien Alpha #53'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #53",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/53.png",
+        "dna": "5580727475c7f535dccbc84e4f2b94dbbedad670",
+        "edition": 53,
+        "attributes": [
+            " background cityscape",
+            " body yellow",
+            " shirt red",
+            " eyes normal",
+            " mouth wheat",
+            " ear tiny",
+            " mask oedipus"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/53.png
+- tokenId: 4b58ead5302df9fd5c63bedde2b36f302552531f4da3c0cd5180c0bfb1e743d8
+  name: 'ErgoSapien Alpha #54'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #54",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/54.png",
+        "dna": "0fd1b3ea36a0868acf97bd35d3f93df1937e6f8d",
+        "edition": 54,
+        "attributes": [
+            " background cityscape",
+            " body magenta",
+            " shirt green",
+            " eyes farapart",
+            " mouth wheat",
+            " ear earring",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/54.png
+- tokenId: 6cbc3216b3228c14c240e3751f5d163c2547942f1c17d54d775083017f5dd17c
+  name: 'ErgoSapien Alpha #55'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #55",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/55.png",
+        "dna": "754d812f146c88b992af18eae7a04a5299cbcc6d",
+        "edition": 55,
+        "attributes": [
+            " background apocalypse",
+            " body orange",
+            " shirt red",
+            " eyes normal",
+            " mouth normal",
+            " ear tiny",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/55.png
+- tokenId: 711a689d136281e337c0c8058783f6e8b2e997c70d4afdebb5d714d2bd0e5faa
+  name: 'ErgoSapien Alpha #56'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #56",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/56.png",
+        "dna": "7ffe680b525cdde408b50edab647e59d5dd06804",
+        "edition": 56,
+        "attributes": [
+            " background crash",
+            " body blue",
+            " shirt white",
+            " eyes crybaby",
+            " mouth frown",
+            " ear detached",
+            " mask omega"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/56.png
+- tokenId: 7cdb6b1862fcc235e86481798aa64a0f81e1b2f1a78c8e692f409c96471dbb34
+  name: 'ErgoSapien Alpha #57'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #57",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/57.png",
+        "dna": "d2518521cb7babbbec5d951235ba328198df92a6",
+        "edition": 57,
+        "attributes": [
+            " background island",
+            " body orange",
+            " shirt green",
+            " eyes normal",
+            " mouth silver tooth",
+            " ear detached",
+            " mask omega"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/57.png
+- tokenId: 81ea907fe3c0804a77f3bcca6da7b5867ad81f8774f98a64c721f367f359962c
+  name: 'ErgoSapien Alpha #58'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #58",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/58.png",
+        "dna": "83530acec259aed9d6e18d9bbd2ebefabc21e428",
+        "edition": 58,
+        "attributes": [
+            " background island",
+            " body yellow",
+            " shirt red",
+            " eyes normal",
+            " mouth drool",
+            " ear horse",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/58.png
+- tokenId: 9fbaec009a4acf8973ca04d0965b97cfc4450bfa1e9a68297106767f248e31f9
+  name: 'ErgoSapien Alpha #59'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #59",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/59.png",
+        "dna": "f6034154f1002013a1897031c687a7a0fe96319d",
+        "edition": 59,
+        "attributes": [
+            " background apocalypse",
+            " body furry white",
+            " shirt white",
+            " eyes black eye",
+            " mouth drool",
+            " ear horse",
+            " mask oedipus"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/59.png
+- tokenId: c137f02c16aa5243475c9e9d42ea39a3241efd689e519b937e8accc6916b42f9
+  name: 'ErgoSapien Alpha #60'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #60",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/60.png",
+        "dna": "c9f2acb51567092f269a78d52ea34468318ae2fb",
+        "edition": 60,
+        "attributes": [
+            " background cityscape",
+            " body green",
+            " shirt green",
+            " eyes black eye",
+            " mouth golden tooth",
+            " ear tiny",
+            " mask omega"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/60.png
+- tokenId: ce759b0f8126fa620c1f403ede2e67ef85441e8a2305a4f9c58c63dba992cefc
+  name: 'ErgoSapien Alpha #61'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #61",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/61.png",
+        "dna": "2d195b30df7394620de1078d536180f793ad7c8c",
+        "edition": 61,
+        "attributes": [
+            " background island",
+            " body magenta",
+            " shirt green",
+            " eyes happy",
+            " mouth frown",
+            " ear hole",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/61.png
+- tokenId: b3f6b76209f6748271463e4eac93e641168dbf8ed040804799807f8f6667576d
+  name: 'ErgoSapien Alpha #62'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #62",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/62.png",
+        "dna": "dd8947d3ebdef9ff4115627d7e154e7f7d836b5a",
+        "edition": 62,
+        "attributes": [
+            " background crash",
+            " body green",
+            " shirt red",
+            " eyes normal",
+            " mouth silver grill",
+            " ear tiny",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/62.png
+- tokenId: 2f622d10b2771c8b6dd2174c1649175260d12c75b5034538656bcd18aef3ef04
+  name: 'ErgoSapien Alpha #63'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #63",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/63.png",
+        "dna": "26bdc745530a8b025c52dec1cf2d51f51586ff06",
+        "edition": 63,
+        "attributes": [
+            " background crash",
+            " body furry blue",
+            " shirt green",
+            " eyes black eye",
+            " mouth normal",
+            " ear earring",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/63.png
+- tokenId: e7e3182b8fae5cf8650935dabc7657162ba60985524a165638eb562ab228f7e6
+  name: 'ErgoSapien Alpha #64'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #64",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/64.png",
+        "dna": "dcb320dea0d90a0c354e08d3fb08c7f39f878a85",
+        "edition": 64,
+        "attributes": [
+            " background crash",
+            " body purple",
+            " shirt white",
+            " eyes normal",
+            " mouth normal",
+            " ear hole",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/64.png
+- tokenId: ed1cdd408b578db2da3e283b2d6165d9ac1e56078d39e799b8be91531ef85f78
+  name: 'ErgoSapien Alpha #65'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #65",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/65.png",
+        "dna": "99ae910e2359a9ab4ee124fad0a2dbeba587b4ff",
+        "edition": 65,
+        "attributes": [
+            " background apocalypse",
+            " body orange",
+            " shirt black",
+            " eyes farapart",
+            " mouth frown",
+            " ear horse",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/65.png
+- tokenId: 244f88e7d6fe852a5073339691cfc7447d739fd188c90e58f138633119373768
+  name: 'ErgoSapien Alpha #66'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #66",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/66.png",
+        "dna": "4ffab35de3a812c07726c0f2bb88a06c06bbb711",
+        "edition": 66,
+        "attributes": [
+            " background alpha space",
+            " body yellow",
+            " shirt white",
+            " eyes normal",
+            " mouth wheat",
+            " ear tiny",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/66.png
+- tokenId: 189af37048ae45cd8921096002c308577a67d58b7054d6386868c888bef70000
+  name: 'ErgoSapien Alpha #67'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #67",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/67.png",
+        "dna": "dbd89e06725b2e9c85544ae5e681ba453e578d37",
+        "edition": 67,
+        "attributes": [
+            " background apocalypse",
+            " body blue",
+            " shirt red",
+            " eyes black eye",
+            " mouth normal",
+            " ear attached",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/67.png
+- tokenId: 960397ef86daef3d6b3680596c6f96ba9101a13de5646ff0dddbeb667a894c2d
+  name: 'ErgoSapien Alpha #68'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #68",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/68.png",
+        "dna": "42fdc04d892e19794d413469fa2addcf25e356dd",
+        "edition": 68,
+        "attributes": [
+            " background night",
+            " body orange",
+            " shirt white",
+            " eyes normal",
+            " mouth frown",
+            " ear tiny",
+            " mask oedipus"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/68.png
+- tokenId: 3d3eb84399791835adfedb4db3b63c2c2e3086dc44395336aec24e925d76fee6
+  name: 'ErgoSapien Alpha #69'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #69",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/69.png",
+        "dna": "f9872bdf609ff025b8c10a7d42db043e5f8b07d8",
+        "edition": 69,
+        "attributes": [
+            " background alpha space",
+            " body blue",
+            " shirt red",
+            " eyes normal",
+            " mouth golden  grill",
+            " ear horse",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/69.png
+- tokenId: c0fe7ecc6ff34d79cbacbdc9dd9abaa0922cd1c0faee2a89162f62aabdd23080
+  name: 'ErgoSapien Alpha #70'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #70",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/70.png",
+        "dna": "68af6b8ed30932c61d2a41b2ec9b572d0fc120ae",
+        "edition": 70,
+        "attributes": [
+            " background cityscape",
+            " body furry white",
+            " shirt black",
+            " eyes black eye",
+            " mouth drool",
+            " ear tiny",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/70.png
+- tokenId: 7d94b81c184914711de17422b4119fdc7f169b5572ffb9638680711050023dfb
+  name: 'ErgoSapien Alpha #72'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #72",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/72.png",
+        "dna": "0930d7319ff075630d1a4498ff137bbd7ddc0afe",
+        "edition": 72,
+        "attributes": [
+            " background crash",
+            " body green",
+            " shirt white",
+            " eyes crybaby",
+            " mouth wheat",
+            " ear attached",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/72.png
+- tokenId: 5654c6281dc235539e218f79d6c7c45f503e252cd39431051dacff29e6408f62
+  name: 'ErgoSapien Alpha #74'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #74",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/74.png",
+        "dna": "3d8c644ccf9a8eed3a590a78793aaa6686be8f68",
+        "edition": 74,
+        "attributes": [
+            " background cityscape",
+            " body furry pink",
+            " shirt black",
+            " eyes normal",
+            " mouth frown",
+            " ear earring",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/74.png
+- tokenId: 237f1fa54dd264db2a49752c35de480eb78006621a8ae4eb0180178702663028
+  name: 'ErgoSapien Alpha #75'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #75",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/75.png",
+        "dna": "40c042f87e6fc318a36bea507f513e96648ee44b",
+        "edition": 75,
+        "attributes": [
+            " background crash",
+            " body green",
+            " shirt red",
+            " eyes happy",
+            " mouth frown",
+            " ear detached",
+            " mask oedipus"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/75.png
+- tokenId: acd646684a5eadb4bdf793b22d2c11ddac2062b6085319c0f629e86b469c50d5
+  name: 'ErgoSapien Alpha #76'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #76",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/76.png",
+        "dna": "184d06a8e855820f45d0b0a93ebfec1ce049c77a",
+        "edition": 76,
+        "attributes": [
+            " background cityscape",
+            " body green",
+            " shirt green",
+            " eyes normal",
+            " mouth drool",
+            " ear attached",
+            " mask omega"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/76.png
+- tokenId: 5c630f0788213aacacd3898add88148fc228109574b4d37e5b0a46fef4d54289
+  name: 'ErgoSapien Alpha #77'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #77",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/77.png",
+        "dna": "128bf96d236422411b64ba5d8beb2295075dd6a9",
+        "edition": 77,
+        "attributes": [
+            " background cityscape",
+            " body green",
+            " shirt green",
+            " eyes farapart",
+            " mouth golden tooth",
+            " ear detached",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/77.png
+- tokenId: b96fdca65b7843dbceaefd0ec02c4b8f5cb781734f68e2ce3203d6ed7887e17e
+  name: 'ErgoSapien Alpha #78'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #78",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/78.png",
+        "dna": "703b4f220145a7b2fac039a7509c8cd6aaf7d870",
+        "edition": 78,
+        "attributes": [
+            " background island",
+            " body yellow",
+            " shirt green",
+            " eyes normal",
+            " mouth drool",
+            " ear hole",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/78.png
+- tokenId: 254704e4312fc6bca296b926b61871c2ef9b9d7b8648fb2432328e867050a7e0
+  name: 'ErgoSapien Alpha #79'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #79",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/79.png",
+        "dna": "a2ed67b56d267e00d77f933592fdc7f006169024",
+        "edition": 79,
+        "attributes": [
+            " background alpha space",
+            " body magenta",
+            " shirt white",
+            " eyes happy",
+            " mouth drool",
+            " ear tiny",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/79.png
+- tokenId: ddc8aa0e1cf894447e5091d50d5909f58290c4bfc6e415e3f2f3856e527831ab
+  name: 'ErgoSapien Alpha #80'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #80",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/80.png",
+        "dna": "7cb7d0eb5d433f6a95511817a5eb49af33ed531f",
+        "edition": 80,
+        "attributes": [
+            " background night",
+            " body pink",
+            " shirt red",
+            " eyes farapart",
+            " mouth wheat",
+            " ear hole",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/80.png
+- tokenId: 1ba940879a97b914d08300ca880924b2c21ccf34e6d93f0f18b5df1fdf59d80f
+  name: 'ErgoSapien Alpha #81'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #81",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/81.png",
+        "dna": "f06d241a11cfb663113e2657acfa4e82d65fa0ca",
+        "edition": 81,
+        "attributes": [
+            " background cityscape",
+            " body magenta",
+            " shirt red",
+            " eyes farapart",
+            " mouth golden tooth",
+            " ear earring",
+            " mask omega"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/81.png
+- tokenId: 93449c2da738afd08b2c5387bc132e9f181804a37cd402facf1648ec12964ae9
+  name: 'ErgoSapien Alpha #82'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #82",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/82.png",
+        "dna": "b648d4164d79a8dadbd8258633492159d61265be",
+        "edition": 82,
+        "attributes": [
+            " background cityscape",
+            " body magenta",
+            " shirt black",
+            " eyes farapart",
+            " mouth silver tooth",
+            " ear earring",
+            " mask omega"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/82.png
+- tokenId: 20b054a5a37c138bd5d964304942d8dc59d63a689783b1a60332694aeb2de758
+  name: 'ErgoSapien Alpha #83'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #83",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/83.png",
+        "dna": "3d46f6c7d68ff0ec516dd2256f96be60b9365a26",
+        "edition": 83,
+        "attributes": [
+            " background cityscape",
+            " body furry pink",
+            " shirt white",
+            " eyes happy",
+            " mouth drool",
+            " ear tiny",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/83.png
+- tokenId: ea66e618fb720f2e16635a554babf8f25a3cd0cc0fba8ae515ad9c0d10afa6fa
+  name: 'ErgoSapien Alpha #84'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #84",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/84.png",
+        "dna": "a19c7038602548dd301b6f294e3edf7a321b05c5",
+        "edition": 84,
+        "attributes": [
+            " background crash",
+            " body yellow",
+            " shirt white",
+            " eyes crybaby",
+            " mouth silver tooth",
+            " ear tiny",
+            " mask imposta"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/84.png
+- tokenId: e2f5ae225c6dde5172dee24a2ac15052c98d66db6c221aad1e47934829e3d809
+  name: 'ErgoSapien Alpha #85'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #85",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "ipfs://bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/85.png",
+        "dna": "27d2fb471fa0a538d77d88d64c56272e879d74f7",
+        "edition": 85,
+        "attributes": [
+            " background crash",
+            " body yellow",
+            " shirt green",
+            " eyes farapart",
+            " mouth wheat",
+            " ear hole",
+            " mask smiley"
+        ]
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicgcnx44lvxq5eu3xhvt6corgathewvteacexvcrpsuqwa2brtenu/85.png
+- tokenId: 8bfd3082503cbb7a5eb84bf87956c9d0680d2d0d1f6f7e5270bbbb58fbbddd55
+  name: 'ErgoSapien Alpha #86'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #86",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/86.png",
+        "dna": "9fa7d53a8d2bdee38dfb35d298e31673efce9261",
+        "edition": 86,
+        "background": "crash",
+        "body": "furry_white",
+        "shirt": "black",
+        "eyes": "farapart",
+        "mouth": "golden_grill",
+        "ear": "attached",
+        "mask": "oedipus"
+    }
+  imageUrl: https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/86.png
+- tokenId: 3934f368518c08d272d1808bea6d1ddfedf219bbe29486e28a1809d89c6065d4
+  name: 'ErgoSapien Alpha #87'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #87",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/87.png",
+        "dna": "6848af931f86fa942b12eba23d1aa4e54230cd34",
+        "edition": 87,
+        "background": "space",
+        "body": "furry_pink",
+        "shirt": "white",
+        "eyes": "normal",
+        "mouth": "wheat",
+        "ear": "hole",
+        "mask": "smiley"
+    }
+  imageUrl: https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/87.png
+- tokenId: e6a7bc26560e8aa49702389f6e6b056abd92f4bea69e3fd12dfc83b020f58d04
+  name: 'ErgoSapien Alpha #88'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #88",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/88.png",
+        "dna": "a1380affb13143294ab364f4ec72f09de4ce37cc",
+        "edition": 88,
+        "background": "space",
+        "body": "furry_pink",
+        "shirt": "red",
+        "eyes": "black_eye",
+        "mouth": "wheat",
+        "ear": "tiny",
+        "mask": "imposta"
+    }
+  imageUrl: https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/88.png
+- tokenId: 466556afb1715f9d899b56627c65aeb7dc51d7ceb6281c3642536c2e181624ab
+  name: 'ErgoSapien Alpha #89'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #89",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/89.png",
+        "dna": "3d1a6741386f0c7d18171b6cd3e9f606ddfc953b",
+        "edition": 89,
+        "background": "crash",
+        "body": "pink",
+        "shirt": "white",
+        "eyes": "farapart",
+        "mouth": "wheat",
+        "ear": "hole",
+        "mask": "smiley"
+    }
+  imageUrl: https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/89.png
+- tokenId: a1eb59ec02be2ff26cf341cd3f280a3bee0b1d9c8f3981cd98714405cafcd0a2
+  name: 'ErgoSapien Alpha #90'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #90",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/90.png",
+        "dna": "ca1d434bb3d0d4c5fa0e8333dade930dbb0cf9c9",
+        "edition": 90,
+        "background": "night",
+        "body": "pink",
+        "shirt": "red",
+        "eyes": "black_eye",
+        "mouth": "drool",
+        "ear": "detached",
+        "mask": "smiley"
+    }
+  imageUrl: https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/90.png
+- tokenId: 1a2fe5c9ced02faa99bcf34ca2b37cf16c8b15b32cb0877f96fbd161152db468
+  name: 'ErgoSapien Alpha #91'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #91",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/91.png",
+        "dna": "90fcf5552313460e69266ad9e3b6468fd93971b6",
+        "edition": 91,
+        "background": "crash",
+        "body": "furry_pink",
+        "shirt": "black",
+        "eyes": "farapart",
+        "mouth": "frown",
+        "ear": "detached",
+        "mask": "smiley"
+    }
+  imageUrl: https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/91.png
+- tokenId: 0aae172f3e438f76b57f9790ff5c2fc09eba3bce8dd371b74f98622a8cf9045a
+  name: 'ErgoSapien Alpha #92'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #92",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/92.png",
+        "dna": "8ed979ec08f7b5136c563836d507031b4ba3f270",
+        "edition": 92,
+        "background": "apocalypse",
+        "body": "green",
+        "shirt": "green",
+        "eyes": "happy",
+        "mouth": "frown",
+        "ear": "tiny",
+        "mask": "smiley"
+    }
+  imageUrl: https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/92.png
+- tokenId: ac4c819386fbdb12f9d91da98b5d0f81ffcb23c81b5f8512d408dad6679eeab7
+  name: 'ErgoSapien Alpha #93'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #93",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/93.png",
+        "dna": "bfc1ff7e7a0f9d256026668c8e8466bef2e76953",
+        "edition": 93,
+        "background": "cityscape",
+        "body": "green",
+        "shirt": "green",
+        "eyes": "normal",
+        "mouth": "wheat",
+        "ear": "detached",
+        "mask": "imposta"
+    }
+  imageUrl: https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/93.png
+- tokenId: d99e84beb71b143dff36ecad70941b561ce8775964cce60f9330b62e6767b608
+  name: 'ErgoSapien Alpha #94'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #94",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/94.png",
+        "dna": "47ff0648cb65be718633944aabfa021ea6b80bf1",
+        "edition": 94,
+        "background": "space",
+        "body": "pink",
+        "shirt": "red",
+        "eyes": "crybaby",
+        "mouth": "golden_grill",
+        "ear": "attached",
+        "mask": "smiley"
+    }
+  imageUrl: https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/94.png
+- tokenId: c8cf65c9c192fae099db0faabea3deca914ae2d2d5853d5fc455dfc2cef24e29
+  name: 'ErgoSapien Alpha #95'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #95",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/95.png",
+        "dna": "d89840f90cce5cccbf96fdf6dbe8f895d65ebab3",
+        "edition": 95,
+        "background": "island",
+        "body": "blue",
+        "shirt": "black",
+        "eyes": "black_eye",
+        "mouth": "wheat",
+        "ear": "attached",
+        "mask": "smiley"
+    }
+  imageUrl: https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/95.png
+- tokenId: 5d26f3931f6f78390949038dd39159b65e1b6b4aec41232e380b5328dcdddd33
+  name: 'ErgoSapien Alpha #96'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #96",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/96.png",
+        "dna": "2dde787867d679b5d0ece72982bd59fe3f63e2a4",
+        "edition": 96,
+        "background": "crash",
+        "body": "pink",
+        "shirt": "green",
+        "eyes": "black_eye",
+        "mouth": "normal",
+        "ear": "detached",
+        "mask": "imposta"
+    }
+  imageUrl: https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/96.png
+- tokenId: f70eb5e253e5e7a41fe735852f6dda003864df336dfd4afeaaa9ca5d5dfef4d7
+  name: 'ErgoSapien Alpha #97'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #97",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/97.png",
+        "dna": "9b82620017604b30ee72da11a1635385e9b9b0f9",
+        "edition": 97,
+        "background": "apocalypse",
+        "body": "blue",
+        "shirt": "red",
+        "eyes": "happy",
+        "mouth": "normal",
+        "ear": "earring",
+        "mask": "smiley"
+    }
+  imageUrl: https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/97.png
+- tokenId: 8b29100d9559814fc234160fcbc17879fbb2454cfc8a308cfed138ec09abb867
+  name: 'ErgoSapien Alpha #98'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #98",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/98.png",
+        "dna": "3b69aefea76a3b1a60ed0b142b605b116e4d448b",
+        "edition": 98,
+        "background": "island",
+        "body": "purple",
+        "shirt": "red",
+        "eyes": "crybaby",
+        "mouth": "drool",
+        "ear": "attached",
+        "mask": "smiley"
+    }
+  imageUrl: https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/98.png
+- tokenId: 7f67f58a8234f7d24e5fe4280f55a8b71ab32d61c244902578bef26a50bbb23f
+  name: 'ErgoSapien Alpha #99'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #99",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/99.png",
+        "dna": "077a96557de42398bf3d07a0198898a418cf41b3",
+        "edition": 99,
+        "background": "night",
+        "body": "furry_pink",
+        "shirt": "red",
+        "eyes": "happy",
+        "mouth": "silver_grill",
+        "ear": "attached",
+        "mask": "omega"
+    }
+  imageUrl: https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/99.png
+- tokenId: 69e6afb152e5401e9ed879277fb2ed3539658e9ae107b9702731c99bcd3ee9f9
+  name: 'ErgoSapien Alpha #100'
+  description: |-
+    {
+        "name": "ErgoSapien Alpha #100",
+        "description": "ErgoSapiens Supporter Edition",
+        "image": "https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/100.png",
+        "dna": "0b1036a373be3797dbd7624c9e56cff0ca50f811",
+        "edition": 100,
+        "background": "crash",
+        "body": "furry_pink",
+        "shirt": "green",
+        "eyes": "happy",
+        "mouth": "drool",
+        "ear": "earring",
+        "mask": "oedipus"
+    }
+  imageUrl: https://arweave.net/IeJ0DJITcSwyy3W1yBSUJ7H_LuIlE1oG7AXOWJ8PlZY/100.png
