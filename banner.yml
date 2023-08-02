@@ -1,15 +1,12 @@
-title: 
-description: 
+title: ErgoSapiens
+description: ErgoSapiens: a series of intergalactic characters from all over the world! They have several traits and various rarities.
 image: https://ipfs.io/ipfs/
 mintAddresses:
-  - 
+  - 9frdKqGApmTAnssFmXaAhT3ij9fB3oNupfxRiP2FFae3QH4KzZ3
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/ergosapiens
     icon: fa-brands fa-twitter fa-fw
-  - label: Discord
-    url: https://discord.com/invite/
-    icon: fa-brands fa-discord fa-fw
   - label: Website
-    url: 
+    url: https://www.ergosapiens.com/
     icon: fa-solid fa-globe fa-fw
