@@ -1,4 +1,5 @@
 collections:
 - label: ErgoSapiens Alpha
   data: ergosapiensalpha.yml
+  description: ErgoSapiens Alpha Collection - all NFTs were acquired by alpha testing the ErgoSapiens distribution engine.
   image: 
